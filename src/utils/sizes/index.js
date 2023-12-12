@@ -1,4 +1,4 @@
-import { RFPercentage } from 'react-native-responsive-fontsize'
+import { RFPercentage } from 'react-native-responsive-fontsize';
 export const size = {
   huge: RFPercentage(4.5),
   xxxtitle: RFPercentage(3.8),
